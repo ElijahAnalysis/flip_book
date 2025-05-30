@@ -1,0 +1,10 @@
+{ Fantasy : 134,
+  Romance : 142,
+  Biography : 158,
+  Programming Languages : 37,
+  Science : 386,
+  Art : 53,
+  Education, Textbooks : 279,
+  History : 5863,
+  Kids : 43,
+  Popular Psychology : 505 }
