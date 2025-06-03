@@ -1,0 +1,14 @@
+ubuntu-test01
+2 CPU / 4 GB Memory / 80 GB Disk / FRA1 - Ubuntu 24.04 (LTS) x64
+
+ip:
+159.89.15.19
+
+portSSH:
+22
+
+login:
+root
+
+password:
+ubuntu@2W3e4r5t6y
