@@ -7,7 +7,7 @@ import os
 from collections import defaultdict
 
 # Bot token - replace with your actual bot token
-BOT_TOKEN = "7683217396:AAEgi5xoag-iQnPhTM9knpYXnSHMqmPPwXs"
+BOT_TOKEN = "your_token"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
